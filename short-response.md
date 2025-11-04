@@ -6,7 +6,7 @@ If you are collaborating with a classmate, the *first thing* each of the team me
 Developers use branches because they can make edits, test new things, or fix bugs/errors without changing the main branch. Branches are also used to confirm with your teammates (If you **are** working with one) if the changes are good.
 
 ## 3: What is git? What is github? How does git and github work together?
-Git is a distributed **Version Control System**, or simply a *control system* that allows you to track the history of your code, and make changes to your code. Github is a company that offers Git repository on its website, [github.com](github.com). Github also stores repositories where the code is stored, and allows for collaboration between developers. Github is the host for Git, and you can use Git for free by going on the website offered by the company.
+Git is a distributed **Version Control System**, or simply a *control system* that allows you to track the history of your code, and make changes to your code. Github is a company that offers Git repository on its website, [github.com](https://github.com/). Github also stores repositories where the code is stored, and allows for collaboration between developers. Github is the host for Git, and you can use Git for free by going on the website offered by the company.
 
 ## 4: What is wrong with the following command sequence? What should be the *correct* command sequence?
 ```python
