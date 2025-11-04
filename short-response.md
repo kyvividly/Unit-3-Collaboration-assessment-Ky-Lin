@@ -9,7 +9,7 @@ Developers us branches because they can make edits, test new things, or fix bugs
 Git is a distributed **Version Control System**, or simply a *control system* that allows you to track the history of your code, and make changes to your code. Github is a company that offers Git repository on its website, [github.com](github.com). Github also stores repositories where the code is stored, and allows for collaboration between developers. Github is the host for Git, and you can use Git for free by going on the website offered by the company.
 
 ## 4: What is wrong with the following command sequence? What should be the *correct* command sequence?
-```python
+```bash
 git commit -m "saving work"
 git add .
 git push
@@ -17,7 +17,8 @@ git push
 
 This command sequence is wrong because you put the commit before you did `git add . `. The correct command sequence is shown below:
 
-```python
+```bash
 git add .
 git commit -m "saving work"
 git push
+```
