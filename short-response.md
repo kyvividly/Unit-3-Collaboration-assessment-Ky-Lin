@@ -19,5 +19,5 @@ This command sequence is wrong because you put the commit before you did `git ad
 
 ```python
 git add .
-git commit -m "Saving work"
+git commit -m "saving work"
 git push
